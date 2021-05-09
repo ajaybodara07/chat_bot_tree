@@ -1,0 +1,48 @@
+.MainUI{
+    margin-top: 50px;
+    width: 25%;
+    height: 80%;
+    /* background-color: gray; */
+    text-align: center
+}
+.bubbles_data{
+ width: 500px;
+ height: 200px;
+ background-color: gray
+}
+.chat_input{
+    width: '100%';
+    position: 'absolute';
+    bottom: 60;
+    right: 2;
+    display: flex
+}
+.btn_send{
+    height: 57px;
+    margin-top: 9px;
+    width: 91px;
+}
+.botText{
+    padding: 15;
+    background-color: #8fccc1;
+    margin-left: auto;
+    max-width: 70%;
+    border-top-right-radius: 15;
+    border-top-left-radius: 15;
+    border-bottom-left-radius: 15;
+    color: #383838;
+    white-Space: pre-line
+}
+.messageType{
+    font-Size: "15px"
+}
+
+.btnStyles{
+    background-color: "#00d8ff";
+    border: none;
+    color: #336699;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-weight: bold;
+    font-size: 0.8em;
+}
